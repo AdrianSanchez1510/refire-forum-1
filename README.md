@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Github Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/screenshot.png)
+![Github Banner](https://github.com/DynastyElvis/refire-forum/blob/master/src/Screenshot%20from%202023-04-13%2014-12-16.png)
 
 # ✨ Beach Resort | Hotel Room Booking System
 
