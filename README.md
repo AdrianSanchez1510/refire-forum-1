@@ -23,11 +23,14 @@
 <!-- shield icon links -->
 
 
+[email-shield]: https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&color=555
+[chatbot-shield]: https://img.shields.io/badge/-Chatbot-black.svg?style=flat-square&logo=chatbot&color=555
+[portfolio-shield]: https://img.shields.io/badge/-Portfolio-black.svg?style=flat-square&logo=portfolio&color=555
+
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
-
 
 Serverless discussion forum built with React, Redux and Firebase using [refire](https://github.com/hoppula/refire) and [refire-app](https://github.com/hoppula/refire-app).
 
