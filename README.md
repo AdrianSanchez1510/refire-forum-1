@@ -1,5 +1,36 @@
 # refire-forum
 
+
+<!-- social media connecting shield -->
+
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+
+![Github Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/screenshot.png)
+
+# ✨ Beach Resort | Hotel Room Booking System
+
+<!-- contents of projects -->
+
+
+<!-- my social media links -->
+
+[instagram-url]: https://www.instagram.com/dynastyelvis/
+[twitter-url]: https://twitter.com/Dev_Rono
+[linkedin-url]: https://www.linkedin.com/in/kipkemoi-elvis-aa3548209
+[github-url]: https://github.com/DynastyElvis
+
+<!-- shield icon links -->
+
+
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+
+
 Serverless discussion forum built with React, Redux and Firebase using [refire](https://github.com/hoppula/refire) and [refire-app](https://github.com/hoppula/refire-app).
 
 Base UI components are from excellent [Elemental UI](http://elemental-ui.com/).
@@ -7,6 +38,8 @@ Base UI components are from excellent [Elemental UI](http://elemental-ui.com/).
 ## Live demo
 
 [https://refire.firebaseapp.com](https://refire.firebaseapp.com)
+
+
 
 ## Features
 
